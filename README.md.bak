@@ -62,6 +62,14 @@ if (icm20948_read_raw(&data)) {
     printf("Accel X: %d, Gyro Z: %d, Temp: %.2f C\n", data.acc_x, data.gyr_z, data.temp);
 }
 ```
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.  
+See [LICENSE](LICENSE) for full details.
+
 ---
 
 ## Author
