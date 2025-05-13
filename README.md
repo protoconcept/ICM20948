@@ -1,7 +1,6 @@
 # ICM20948
 **ICM20948 driver for the ESP-IDF platform (ESP32)**  
 Developed by Kevin Assen - [Protoconcept](https://protoconcept.nl)  
-Licensed under the [MIT License](LICENSE)
 
 ## Overview
 
